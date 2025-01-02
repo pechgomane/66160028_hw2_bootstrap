@@ -1,1 +1,20 @@
 # 66160028_hw2_bootstrap
+- git clone https://github.com/pechgomane/66160028_hw2_bootstrap
+- git add .
+- git commit -m "init project"
+- git add .
+- git commit -m "standard web"
+- git add .
+- git commit -m "add index"
+- git add .
+- git commit -m "add location"
+- git add .
+- git commit -m "add contact"
+- git add .
+- git commit -m "add style"
+- git add .
+- git commit -m "fix location"
+- git add .
+- git add README.md
+- git commit -m "add comment"
+- 
